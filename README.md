@@ -15,7 +15,7 @@ Este é um projeto simples para realizar sorteios de "Amigo Secreto". Os partici
 
 ## Como Usar
 1.   Clone este repositório:
-   git clone https://github.com/seu-usuario/amigo-secreto.git
+   git clone https://github.com/NayCTezza1/amigo-secreto
 
 2.  Acesse a pasta do projeto:
 cd amigo-secreto
